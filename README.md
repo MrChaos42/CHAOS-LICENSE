@@ -1,4 +1,4 @@
-# Condensed Comprehensive Chaos License: Offline Personal Use Only
+# Chaos License: Offline Personal Use Only
 
 ## 1. Definitions
 1.1 "Software": [Software Name], including all related materials.
